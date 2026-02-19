@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import '../theme/theme.dart';
 
+// A reusable primary button widget with built-in loading and disabled states, as well as a scaling animation on tap.
 class PrimaryButton extends StatefulWidget {
   final String title;
   final VoidCallback? onTap;

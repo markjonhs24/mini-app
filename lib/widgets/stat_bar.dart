@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+// A custom widget to display a stat bar for Pokemon stats like HP, Attack, etc.
+// It shows the stat name, value, and a colored bar representing the stat level.
 class StatBar extends StatelessWidget {
   final String label;
   final int value;

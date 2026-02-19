@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+/// A widget that displays a badge for a Pokémon type with appropriate colors and styling.
+/// The badge color is determined by the Pokémon type, and it can be displayed in a smaller size if needed.
 class TypeBadge extends StatelessWidget {
   final String type;
   final bool isSmall;

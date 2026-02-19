@@ -3,6 +3,8 @@ import 'package:freezed_annotation/freezed_annotation.dart';
 part 'pokemon.freezed.dart';
 part 'pokemon.g.dart';
 
+// This file defines the data models for the Pokemon app, including the main Pokemon model and related classes for types, stats, abilities, and sprites. It uses the freezed package for immutability and JSON serialization.
+
 @freezed
 class Pokemon with _$Pokemon {
   const Pokemon._();

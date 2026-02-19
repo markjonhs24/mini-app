@@ -10,6 +10,8 @@ import '../../models/pokemon.dart';
 import '../../widgets/type_badge.dart';
 import '../../widgets/stat_bar.dart';
 
+// This screen displays detailed information about a specific Pokemon, including its stats, abilities, and sprites. It uses a SliverAppBar for a dynamic header and handles loading/error states gracefully.
+
 class PokemonDetailScreen extends StatefulWidget {
   final int pokemonId;
 

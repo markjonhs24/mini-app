@@ -7,6 +7,8 @@ import '../screens/home/home_screen.dart';
 import '../screens/pokemon_detail/pokemon_detail_screen.dart';
 import '../services/pokemon_service.dart';
 
+// This file defines the app's routing using GoRouter. It sets up the routes for the login screen, home screen, and pokemon detail screen, and also provides the necessary BlocProviders for state management on each screen.
+
 final appRouter = GoRouter(
   initialLocation: '/login',
   routes: [

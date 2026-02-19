@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 // Custom TextField widget with extensive customization options for styling and behavior.
-
 class CustomTextField extends StatelessWidget {
   final TextEditingController? controller;
   final FocusNode? focusNode;

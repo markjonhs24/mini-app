@@ -3,6 +3,7 @@ import 'package:cached_network_image/cached_network_image.dart';
 import '../models/pokemon.dart';
 import 'type_badge.dart';
 
+// A card widget to display a Pokemon in the list view, showing its image, name, and ID. Tapping the card triggers the onTap callback.
 class PokemonCard extends StatelessWidget {
   final PokemonListItem pokemon;
   final VoidCallback onTap;
