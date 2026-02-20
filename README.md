@@ -2,10 +2,12 @@
 
 # Screenshots Emulator
 
-<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Plus - 2026-02-20 at 10 53 15" src="https://github.com/user-attachments/assets/5ca6c56b-32e7-4097-94ec-c5e2de3fa4ed" />
-<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Plus - 2026-02-20 at 10 53 10" src="https://github.com/user-attachments/assets/efe85523-5f46-467e-ac2f-318cfe321745" />
-<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Plus - 2026-02-20 at 10 53 06" src="https://github.com/user-attachments/assets/1dc3ee0b-2509-4fb4-bb8f-47bf9110e245" />
-<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Plus - 2026-02-20 at 10 53 04" src="https://github.com/user-attachments/assets/4604444d-9b04-4656-b2ed-743349b0e9c5" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5ca6c56b-32e7-4097-94ec-c5e2de3fa4ed" width="220"/>
+  <img src="https://github.com/user-attachments/assets/efe85523-5f46-467e-ac2f-318cfe321745" width="220"/>
+  <img src="https://github.com/user-attachments/assets/1dc3ee0b-2509-4fb4-bb8f-47bf9110e245" width="220"/>
+  <img src="https://github.com/user-attachments/assets/4604444d-9b04-4656-b2ed-743349b0e9c5" width="220"/>
+</p>
 
 
 A Flutter application demonstrating clean architecture with BLoC pattern, consuming the [PokéAPI](https://pokeapi.co/) to display Pokémon data.
